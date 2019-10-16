@@ -27,14 +27,14 @@ Vue.component('Loader', Loader)
 Vue.component('Paginate', Paginate)
 
 firebase.initializeApp({
-  apiKey: "AIzaSyDZL07Xwelj6yTznlxK9sPZ7iwmLXSlTyk",
-    authDomain: "vue-crm-f7424.firebaseapp.com",
-    databaseURL: "https://vue-crm-f7424.firebaseio.com",
-    projectId: "vue-crm-f7424",
+  apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
     storageBucket: "",
-    messagingSenderId: "219822540295",
-    appId: "1:219822540295:web:b445d91c3b67756f55cca2",
-    measurementId: "G-VN7591M7ZX"
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
 })
 
 let app
